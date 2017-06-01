@@ -15,6 +15,15 @@
       "tags": [
         "api"
       ]
+    },
+    {
+      "url": "https://emberjs.com/api",
+      "variables": {
+        "api": {
+          "url": "https://www.emberjs.com/api-beta",
+          "js": "// find appropriate versions that we support from our power select dropdown"          
+        }
+      }
     }
   ],
   "selectors_exclude": [
